@@ -1,0 +1,4 @@
+		// delete output folder
+		FileSystem hdfs = FileSystem.get(this.getConf());
+		if (hdfs.exists(new Path(args[1])))
+			hdfs.delete(new Path(args[1]), true);

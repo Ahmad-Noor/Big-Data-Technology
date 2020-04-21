@@ -1,0 +1,1 @@
+hadoop jar ExtraCredit2.jar cs523.SparkWC/SparkExtraCredit input output 20

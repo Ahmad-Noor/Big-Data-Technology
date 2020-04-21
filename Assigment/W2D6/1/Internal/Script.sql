@@ -1,0 +1,4 @@
+CREATE TABLE records (year STRING, temperature INT, quality INT)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n';
+LOAD DATA LOCAL INPATH '/home/cloudera/cs523/W2D5/1/input/weatherHive.txt'
+OVERWRITE INTO TABLE records;

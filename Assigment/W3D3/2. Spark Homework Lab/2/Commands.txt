@@ -1,0 +1,10 @@
+val textFile= sc.textFile("file:///usr/lib/spark/LICENSE") 
+
+val linesBSD = textFile.filter(line =>line.contains("BSD") &&  (line.contains("http") ||  line.contains("bash"))  )
+ 
+
+linesBSD.saveAsTextFile("file:///home/cloudera/Desktop/output")
+
+
+  linesBSD.count()
+ 

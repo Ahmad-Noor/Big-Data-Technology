@@ -1,0 +1,40 @@
+====================
+    Start logging
+====================
+
+Date:    03.03.2015
+Time:    17:08:49
+Version: 2.2.013
+
+0 17:08:49 -  -       Information: OMSI is working in fullscreen mode
+1 17:08:58 -  -       Information: Options dialog created
+2 17:08:58 -  -       Information: Weather dialog created
+3 17:08:58 -  -       Information: Profiles dialog created
+4 17:08:58 -  -       Information: Time table running dialog created
+5 17:08:59 -  -       Information: Start dialog created
+6 17:08:59 -  -       Information: Menu 2 created
+7 17:08:59 -  -       Information: Menu 3 created
+8 17:08:59 -  -       Information: Tut dialog created
+9 17:08:59 -  -       Information: Menu pos set
+10 17:08:59 -  -       Information: Bro initialized
+11 17:08:59 -  -       Information: Human engine initialized
+12 17:08:59 -  -       Information: Forms set
+13 17:08:59 -  -       Information: Captions set
+14 17:08:59 -  -       Information: Screen ration set
+15 17:08:59 -  -       Information: 3D initialized
+16 17:08:59 -  -       Information: Direct sound initialized
+17 17:08:59 -  -       Information: Create main manager...
+18 17:08:59 -  -       Information: Veh array created
+19 17:08:59 -  -       Information: CS initialized
+20 17:08:59 -  -       Information: Station manager created
+21 17:08:59 -  -       Information: OBB created
+22 17:08:59 -  -       Information: Tex managers created
+23 17:08:59 -  -       Information: Tex manager started
+24 17:08:59 -  -       Information: Tutorial manager created
+25 17:08:59 -  -       Information: Material manager created
+26 17:08:59 -  -       Information: Scenery object manager created
+27 17:08:59 -  -       Information: Human manager created
+28 17:08:59 -  -       Information: RV type manager created
+29 17:08:59 -  -       Information: RV lists created
+30 17:08:59 -  -       Information: Spline manager created
+31 17:08:59 -  -       Information: Time table manager created
